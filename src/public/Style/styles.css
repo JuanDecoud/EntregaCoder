@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+    width: auto;
+}
+.nav1 {
+    height: 25%;
+}
+.img1 {
+    height: 125px;
+    width: 125px;
+    object-fit: cover;
+}
+
+.cartHeight {
+    height: 100%;
+}
+
+.divCart:hover {
+    background-color: rgb(235, 128, 142);
+  }
+
+  .foot {
+    height: 20%;
+    width: auto;
+   
+  }
+  
+
